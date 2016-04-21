@@ -1,0 +1,1630 @@
+2015-07-28 13:40:24 Error: Fatal Error (1): Call to a member function user() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\PostsController.php, line 79]
+2015-07-28 13:40:24 Error: [FatalErrorException] Call to a member function user() on a non-object
+Request URL: /cakephp-2.7.1/posts/add
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 79)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 79, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 79, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:40:53 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.1/user
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 13:40:58 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:40:58 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:42:49 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.1/post
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 13:42:58 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp-2.7.1/user
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-28 13:43:02 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:43:02 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:43:08 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:43:08 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users/add
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:45:16 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:45:16 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users/add
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:45:20 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:45:20 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users/add
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:45:43 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:45:43 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users/add
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:45:47 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:45:47 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users/
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:45:51 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:45:51 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:46:14 Error: Fatal Error (1): Call to a member function allow() on a non-object in [D:\wamp\www\cakephp-2.7.1\app\Controller\UsersController.php, line 75]
+2015-07-28 13:46:14 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 75, Array)
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 13:48:23 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 13:48:39 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 13:49:05 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 13:56:57 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 13:59:46 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:01:04 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:01:06 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:03:19 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:03:38 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:04:41 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakephp-2.7.1/users
+Stack Trace:
+#0 D:\wamp\www\cakephp-2.7.1\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakephp-2.7.1\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakephp-2.7.1\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakephp-2.7.1\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:14:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'external_id' in 'where clause'
+Request URL: /cakeblog/users/add
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(User), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\cakeblog\app\Model\User.php(38): Model->find('first', Array)
+#7 [internal function]: User->idAndTypeUnique(Array, Array)
+#8 D:\wamp\www\cakeblog\lib\Cake\Model\Validator\CakeValidationRule.php(275): call_user_func_array(Array, Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Model\Validator\CakeValidationSet.php(135): CakeValidationRule->process('username', Array, Array)
+#10 D:\wamp\www\cakeblog\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#11 D:\wamp\www\cakeblog\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#12 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3460): ModelValidator->validates(Array)
+#13 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1829): Model->validates(Array)
+#14 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#15 D:\wamp\www\cakeblog\app\Controller\UsersController.php(24): Model->save(Array)
+#16 [internal function]: UsersController->add()
+#17 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#18 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#19 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#20 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#21 {main}
+2015-07-28 14:15:20 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'external_id' in 'where clause'
+Request URL: /cakeblog/users/add
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(User), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\cakeblog\app\Model\User.php(38): Model->find('first', Array)
+#7 [internal function]: User->idAndTypeUnique(Array, Array)
+#8 D:\wamp\www\cakeblog\lib\Cake\Model\Validator\CakeValidationRule.php(275): call_user_func_array(Array, Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Model\Validator\CakeValidationSet.php(135): CakeValidationRule->process('username', Array, Array)
+#10 D:\wamp\www\cakeblog\lib\Cake\Model\ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#11 D:\wamp\www\cakeblog\lib\Cake\Model\ModelValidator.php(99): ModelValidator->errors(Array)
+#12 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3460): ModelValidator->validates(Array)
+#13 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1829): Model->validates(Array)
+#14 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#15 D:\wamp\www\cakeblog\app\Controller\UsersController.php(24): Model->save(Array)
+#16 [internal function]: UsersController->add()
+#17 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#18 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#19 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#20 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#21 {main}
+2015-07-28 14:16:58 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:20:36 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-28 14:21:41 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-29 15:46:43 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting ')' in [D:\wamp\www\cakeblog\app\Model\Post.php, line 30]
+2015-07-29 15:46:43 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting ')'
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 30)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 30, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 30, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-29 15:53:32 Error: [MissingViewException] View file "Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\index.ctp',
+)
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-30 08:00:27 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:00:27 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users/add
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:00:43 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:00:43 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users/add/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:00:45 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:00:45 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users/add/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:01:18 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:01:18 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users/add/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:01:22 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:01:22 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:01:27 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:01:27 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:01:30 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 91]
+2015-07-30 08:01:30 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 91, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:02:31 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 92]
+2015-07-30 08:02:31 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:02:52 Error: Fatal Error (64): Cannot redeclare UsersController::login() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 92]
+2015-07-30 08:02:52 Error: [FatalErrorException] Cannot redeclare UsersController::login()
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 92, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:03:34 Error: Fatal Error (64): Cannot redeclare UsersController::logout() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 101]
+2015-07-30 08:03:34 Error: [FatalErrorException] Cannot redeclare UsersController::logout()
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 101)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 101, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\\wamp\\www\\cak...', 101, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:09:33 Error: [MissingViewException] View file "Users\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users\\view.ctp',
+)
+Request URL: /cakeblog/users/view/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-30 08:31:26 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\cakeblog\app\View\Users\index.ctp, line 10]
+2015-07-30 08:31:26 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 10, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 10, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:31:50 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\cakeblog\app\View\Users\index.ctp, line 9]
+2015-07-30 08:31:50 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:31:52 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\cakeblog\app\View\Users\index.ctp, line 9]
+2015-07-30 08:31:52 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:33:36 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [D:\wamp\www\cakeblog\app\View\Users\index.ctp, line 9]
+2015-07-30 08:33:36 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /cakeblog/users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 9, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 08:50:37 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsControllerController',
+  'plugin' => NULL,
+)
+Request URL: /cakeblog/PostsController
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-30 08:52:25 Error: [MissingActionException] Action PostsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'logout',
+)
+Request URL: /cakeblog/Posts/logout
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 08:54:11 Error: [MissingActionException] Action PostsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'logout',
+)
+Request URL: /cakeblog/Posts/logout
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 08:54:11 Error: [MissingActionException] Action PostsController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'logout',
+)
+Request URL: /cakeblog/Posts/logout
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 09:56:24 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 96]
+2015-07-30 09:56:24 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeblog/Users/logout
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 96)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 96, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 96, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 10:01:17 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cakeblog/User
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-30 10:05:19 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 31]
+2015-07-30 10:05:19 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 10:05:21 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 31]
+2015-07-30 10:05:21 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 31, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 10:06:05 Error: Fatal Error (4): syntax error, unexpected 'else' (T_ELSE) in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 11]
+2015-07-30 10:06:05 Error: [FatalErrorException] syntax error, unexpected 'else' (T_ELSE)
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 11, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 11, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 10:06:27 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /cakeblog/Posts/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 10:06:29 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /cakeblog/Posts/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 10:06:57 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /cakeblog/Posts/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 10:08:44 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /cakeblog/Posts/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 10:08:46 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /cakeblog/Posts/login
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-07-30 10:20:16 Error: [NotFoundException] Invalid post
+Request URL: /cakeblog/Posts/edit/5
+Stack Trace:
+#0 [internal function]: PostsController->edit('5')
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-30 10:20:20 Error: [NotFoundException] Invalid post
+Request URL: /cakeblog/Posts/edit/4
+Stack Trace:
+#0 [internal function]: PostsController->edit('4')
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-30 11:35:49 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Posts.user_id' in 'where clause'
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\app\Controller\PostsController.php(12): Model->find('all', Array)
+#7 [internal function]: PostsController->index()
+#8 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-07-30 11:42:49 Error: Fatal Error (64): Non-abstract method PostsController::allpost() must contain body in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 21]
+2015-07-30 11:42:49 Error: [FatalErrorException] Non-abstract method PostsController::allpost() must contain body
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Non-abstract me...', 'D:\\wamp\\www\\cak...', 21)
+#1 [internal function]: ErrorHandler::handleError(64, 'Non-abstract me...', 'D:\\wamp\\www\\cak...', 21, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Non-abstract me...', 'D:\\wamp\\www\\cak...', 21, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:40:25 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:40:25 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:43:24 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:43:24 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:44:47 Error: Fatal Error (4): syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:44:47 Error: [FatalErrorException] syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:44:58 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:44:58 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:51:18 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:51:18 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:51:27 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:51:27 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:51:30 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:51:30 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:53:23 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:53:23 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 12:57:51 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 12:57:51 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:05:43 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 13:05:43 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:20:30 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 33]
+2015-07-30 13:20:30 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:22:04 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:22:04 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:25:03 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 77]
+2015-07-30 13:25:03 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:25:05 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 77]
+2015-07-30 13:25:05 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 77, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:30:57 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:30:57 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:31:07 Error: Fatal Error (4): syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:31:07 Error: [FatalErrorException] syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:31:15 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:31:15 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:32:39 Error: Fatal Error (1): Using $this when not in object context in [D:\wamp\www\cakeblog\app\Model\User.php, line 80]
+2015-07-30 13:32:39 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:32:53 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:32:53 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:58:36 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:58:36 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:58:38 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:58:38 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:59:08 Error: Fatal Error (4): syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:59:08 Error: [FatalErrorException] syntax error, unexpected '$validator' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:59:28 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:59:28 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 13:59:30 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 13:59:30 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:28:08 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 14:28:08 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:37:41 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 14:37:41 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:37:43 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 73]
+2015-07-30 14:37:43 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 73, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:48:46 Error: Fatal Error (1): Call to undefined method UsersController::validator() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 50]
+2015-07-30 14:48:46 Error: [FatalErrorException] Call to undefined method UsersController::validator()
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:48:48 Error: Fatal Error (1): Call to undefined method UsersController::validator() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 50]
+2015-07-30 14:48:48 Error: [FatalErrorException] Call to undefined method UsersController::validator()
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 50, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:50:33 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 34]
+2015-07-30 14:50:33 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:54:45 Error: Fatal Error (4): syntax error, unexpected '$User' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 34]
+2015-07-30 14:54:45 Error: [FatalErrorException] syntax error, unexpected '$User' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 14:54:55 Error: Fatal Error (4): syntax error, unexpected 'User' (T_STRING), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 34]
+2015-07-30 14:54:55 Error: [FatalErrorException] syntax error, unexpected 'User' (T_STRING), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 34, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:03:24 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 39]
+2015-07-30 15:03:24 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:03:25 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 39]
+2015-07-30 15:03:25 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:04:22 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 54]
+2015-07-30 15:04:22 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:04:25 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 54]
+2015-07-30 15:04:25 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 54, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:04:37 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Model\User.php, line 39]
+2015-07-30 15:04:37 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION)
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 39, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 39, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:05:28 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 39]
+2015-07-30 15:05:28 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 39, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-30 15:05:51 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 40]
+2015-07-30 15:05:51 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 40)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 40, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 40, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 07:09:47 Error: Fatal Error (1): Using $this when not in object context in [D:\wamp\www\cakeblog\app\Model\User.php, line 81]
+2015-07-31 07:09:47 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 81)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 81, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 81, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:01:55 Error: Fatal Error (4): syntax error, unexpected '.', expecting ')' in [D:\wamp\www\cakeblog\app\Model\User.php, line 81]
+2015-07-31 15:01:55 Error: [FatalErrorException] syntax error, unexpected '.', expecting ')'
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:02:44 Error: Fatal Error (4): syntax error, unexpected '.', expecting ')' in [D:\wamp\www\cakeblog\app\Model\User.php, line 81]
+2015-07-31 15:02:44 Error: [FatalErrorException] syntax error, unexpected '.', expecting ')'
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:02:46 Error: Fatal Error (4): syntax error, unexpected '.', expecting ')' in [D:\wamp\www\cakeblog\app\Model\User.php, line 81]
+2015-07-31 15:02:46 Error: [FatalErrorException] syntax error, unexpected '.', expecting ')'
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 81, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:03:29 Error: Fatal Error (1): Using $this when not in object context in [D:\wamp\www\cakeblog\app\Model\User.php, line 80]
+2015-07-31 15:03:29 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:04:02 Error: Fatal Error (1): Using $this when not in object context in [D:\wamp\www\cakeblog\app\Model\User.php, line 80]
+2015-07-31 15:04:02 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:04:09 Error: Fatal Error (1): Using $this when not in object context in [D:\wamp\www\cakeblog\app\Model\User.php, line 80]
+2015-07-31 15:04:09 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', 'D:\\wamp\\www\\cak...', 80, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:04:43 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 107]
+2015-07-31 15:04:43 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 107)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 107, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 107, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:09:17 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 41]
+2015-07-31 15:09:17 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 41, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 41, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:12:39 Error: Fatal Error (4): syntax error, unexpected ''usernameUniqueId'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\wamp\www\cakeblog\app\Model\User.php, line 18]
+2015-07-31 15:12:39 Error: [FatalErrorException] syntax error, unexpected ''usernameUniqueId'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 18, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 18, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:13:11 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 46]
+2015-07-31 15:13:11 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:13:49 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 46]
+2015-07-31 15:13:49 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:13:49 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 46]
+2015-07-31 15:13:49 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 46, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:16:09 Error: Fatal Error (1): Call to a member function read() on a non-object in [D:\wamp\www\cakeblog\app\Model\User.php, line 45]
+2015-07-31 15:16:09 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 45, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 45, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:46:56 Error: Fatal Error (1): Call to undefined method UsersController::find() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 55]
+2015-07-31 15:46:56 Error: [FatalErrorException] Call to undefined method UsersController::find()
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:46:56 Error: Fatal Error (1): Call to undefined method UsersController::find() in [D:\wamp\www\cakeblog\app\Controller\UsersController.php, line 55]
+2015-07-31 15:46:56 Error: [FatalErrorException] Call to undefined method UsersController::find()
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 55, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-31 15:47:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause'
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(User), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('first', Array)
+#6 D:\wamp\www\cakeblog\app\Controller\UsersController.php(60): Model->find('first', Array)
+#7 [internal function]: UsersController->edit('2')
+#8 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-07-31 15:48:41 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause'
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(User), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\app\Controller\UsersController.php(60): Model->find('all', Array)
+#7 [internal function]: UsersController->edit('2')
+#8 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-07-31 15:49:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause'
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `User`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(User), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\app\Controller\UsersController.php(60): Model->find('all', Array)
+#7 [internal function]: UsersController->edit('2')
+#8 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-07-31 15:54:16 Error: Fatal Error (4): syntax error, unexpected ''rule'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\wamp\www\cakeblog\app\Model\User.php, line 15]
+2015-07-31 15:54:16 Error: [FatalErrorException] syntax error, unexpected ''rule'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /cakeblog/Users/edit/2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 15, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 15, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 12:47:00 Error: [NotFoundException] Not Found
+Request URL: /cakeblog/Posts/allpost/page:2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(NULL, Array, Array)
+#1 D:\wamp\www\cakeblog\app\Controller\PostsController.php(34): Controller->paginate()
+#2 [internal function]: PostsController->allpost()
+#3 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2015-08-03 12:49:43 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 33]
+2015-08-03 12:49:43 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 12:50:28 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 33]
+2015-08-03 12:50:28 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 12:53:06 Error: Fatal Error (1): First array member is not a valid class name or object in [D:\wamp\www\cakeblog\app\View\Posts\allpost.ctp, line 21]
+2015-08-03 12:53:06 Error: [FatalErrorException] First array member is not a valid class name or object
+Request URL: /cakeblog/Posts/allpost/page:2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'First array mem...', 'D:\\wamp\\www\\cak...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'First array mem...', 'D:\\wamp\\www\\cak...', 21, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'First array mem...', 'D:\\wamp\\www\\cak...', 21, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 13:12:51 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 37]
+2015-08-03 13:12:51 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 37, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\wamp\\www\\cak...', 37, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 13:13:42 Error: Fatal Error (4): syntax error, unexpected '=' in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 37]
+2015-08-03 13:13:42 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 37, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 37, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 13:13:54 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Post' in 'where clause'
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(Array, Array, Array)
+#8 D:\wamp\www\cakeblog\app\Controller\PostsController.php(38): Controller->paginate(Array)
+#9 [internal function]: PostsController->allpost()
+#10 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#11 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#13 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-08-03 13:14:49 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Post' in 'where clause'
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(1086): PaginatorComponent->paginate(Array, Array, Array)
+#8 D:\wamp\www\cakeblog\app\Controller\PostsController.php(38): Controller->paginate(Array)
+#9 [internal function]: PostsController->allpost()
+#10 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#11 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#13 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-08-03 13:27:45 Error: [NotFoundException] Invalid user
+Request URL: /cakeblog/Users/edit/0
+Stack Trace:
+#0 [internal function]: UsersController->edit('0')
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-03 13:27:51 Error: [NotFoundException] Invalid user
+Request URL: /cakeblog/Users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-03 14:35:08 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 33]
+2015-08-03 14:35:08 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakeblog/Posts/allpost/page:2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 33, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-03 14:37:27 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'limit' in 'where clause'
+Request URL: /cakeblog/Posts/allpost/page:2
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\app\Controller\PostsController.php(33): Model->find('all', Array)
+#7 [internal function]: PostsController->allpost()
+#8 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-04 06:57:34 Error: [MissingModelException] Posts
+Request URL: /cakeblog/Posts/allpost
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(36): PaginatorComponent->paginate('Posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 06:57:59 Error: [MissingModelException] posts
+Request URL: /cakeblog/Posts/allpost
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(36): PaginatorComponent->paginate('posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 06:58:31 Error: [MissingModelException] posts
+Request URL: /cakeblog/Posts/allpost
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(36): PaginatorComponent->paginate('posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 07:01:05 Error: [MissingModelException] posts
+Request URL: /cakeblog/Posts/allpost
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(36): PaginatorComponent->paginate('posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 08:17:43 Error: [MissingModelException] Posts
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(33): PaginatorComponent->paginate('Posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 08:18:21 Error: [MissingModelException] posts
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(33): PaginatorComponent->paginate('posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 08:18:30 Error: [MissingModelException] posts
+Request URL: /cakeblog/Posts/allpost/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\app\Controller\PostsController.php(33): PaginatorComponent->paginate('posts')
+#1 [internal function]: PostsController->allpost()
+#2 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2015-08-04 08:25:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'conditions' in 'where clause'
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(669): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1108): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#6 D:\wamp\www\cakeblog\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#7 D:\wamp\www\cakeblog\app\Controller\PostsController.php(18): PaginatorComponent->paginate('Post', Array)
+#8 [internal function]: PostsController->index()
+#9 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-08-04 11:18:51 Error: [NotFoundException] Invalid user
+Request URL: /cakeblog/Users/edit/
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-16 10:29:21 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /cakeblog/
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(260): Mysql->connect()
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3617): ConnectionManager::getDataSource('default')
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3644): Model->setSource('users')
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#6 D:\wamp\www\cakeblog\lib\Cake\View\Helper\FormHelper.php(215): Model->schema()
+#7 D:\wamp\www\cakeblog\lib\Cake\View\Helper\FormHelper.php(468): FormHelper->_introspectModel('User', 'fields')
+#8 D:\wamp\www\cakeblog\app\View\Users\login.ctp(4): FormHelper->create('User')
+#9 D:\wamp\www\cakeblog\lib\Cake\View\View.php(971): include('D:\\wamp\\www\\cak...')
+#10 D:\wamp\www\cakeblog\lib\Cake\View\View.php(933): View->_evaluate('D:\\wamp\\www\\cak...', Array)
+#11 D:\wamp\www\cakeblog\lib\Cake\View\View.php(473): View->_render('D:\\wamp\\www\\cak...')
+#12 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#13 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#14 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2015-12-16 10:33:07 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Model\Post.php, line 19]
+2015-12-16 10:33:07 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-16 10:33:08 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Model\Post.php, line 19]
+2015-12-16 10:33:08 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 19, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-16 10:34:16 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [D:\wamp\www\cakeblog\app\Model\Post.php, line 2]
+2015-12-16 10:34:16 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 2, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\wamp\\www\\cak...', 2, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-16 10:35:23 Error: [MissingTableException] Table tags for model Tag was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'tags',
+  'class' => 'Tag',
+  'ds' => 'default',
+)
+Request URL: /cakeblog/Posts
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3644): Model->setSource('tags')
+#1 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(2519): Model->schema()
+#3 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1743): DboSource->fields(Object(Tag), 'Tag', '')
+#4 D:\wamp\www\cakeblog\lib\Cake\Model\Datasource\DboSource.php(1095): DboSource->generateAssociationQuery(Object(Post), Object(Tag), 'hasOne', 'Tag', Array, Array, false)
+#5 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(3022): DboSource->read(Object(Post), Array)
+#6 D:\wamp\www\cakeblog\lib\Cake\Model\Model.php(2994): Model->_readDataSource('all', Array)
+#7 D:\wamp\www\cakeblog\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#8 D:\wamp\www\cakeblog\app\Controller\PostsController.php(16): PaginatorComponent->paginate('Post')
+#9 [internal function]: PostsController->index()
+#10 D:\wamp\www\cakeblog\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#11 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 D:\wamp\www\cakeblog\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#13 D:\wamp\www\cakeblog\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-12-16 10:36:49 Error: Fatal Error (1): Call to undefined method PostsController::validator() in [D:\wamp\www\cakeblog\app\Controller\PostsController.php, line 63]
+2015-12-16 10:36:49 Error: [FatalErrorException] Call to undefined method PostsController::validator()
+Request URL: /cakeblog/Posts/edit/5
+Stack Trace:
+#0 D:\wamp\www\cakeblog\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 63)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 63, Array)
+#2 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\\wamp\\www\\cak...', 63, Array)
+#3 D:\wamp\www\cakeblog\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
